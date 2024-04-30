@@ -9,10 +9,6 @@ class Identicon:
         self.name = name
         self.grid_size = grid_size
 
-    """
-    Generates an indenticon based on provided string.
-    """
-
     def generate_identicon(self):
         self.grid = IdenticonUtils.generate_grid(self.grid_size)
         self.grid = IdenticonUtils.draw_identicon(self.name, self.grid)
