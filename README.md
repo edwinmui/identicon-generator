@@ -1,5 +1,5 @@
-# Akkio take home
-My solution for the Akkio take-home assignment!
+# Identicon Generator
+A simple identicon generator that generates an icon based on a given username.
 
 To run, install requirements with `pip install -r requirements.txt`
 
