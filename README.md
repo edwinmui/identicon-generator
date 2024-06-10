@@ -7,7 +7,7 @@ From there, go into the app folder and run `python3 identicon.py`, after which y
 
 Example:
 
-<img width="340" alt="image" src="https://github.com/edwinmui/identicon-generator/assets/47285957/0b82acb6-7b41-426f-a474-099ddaa07054">
+<img width="346" alt="image" src="https://github.com/edwinmui/identicon-generator/assets/47285957/264606ca-414c-4542-811d-54d7b4ddb5a6">
 
 
 You can see the identicon it generated for you outside of the app folder in the main directory, saved as a png. Enjoy!
